@@ -1,0 +1,15 @@
+C:\Users\GN\Desktop\ubn\exersize_21\obj\Debug\net6.0\exersize_21.csproj.AssemblyReference.cache
+C:\Users\GN\Desktop\ubn\exersize_21\obj\Debug\net6.0\exersize_21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GN\Desktop\ubn\exersize_21\obj\Debug\net6.0\exersize_21.AssemblyInfoInputs.cache
+C:\Users\GN\Desktop\ubn\exersize_21\obj\Debug\net6.0\exersize_21.AssemblyInfo.cs
+C:\Users\GN\Desktop\ubn\exersize_21\obj\Debug\net6.0\exersize_21.csproj.CoreCompileInputs.cache
+C:\Users\GN\Desktop\ubn\exersize_21\bin\Debug\net6.0\exersize_21.exe
+C:\Users\GN\Desktop\ubn\exersize_21\bin\Debug\net6.0\exersize_21.deps.json
+C:\Users\GN\Desktop\ubn\exersize_21\bin\Debug\net6.0\exersize_21.runtimeconfig.json
+C:\Users\GN\Desktop\ubn\exersize_21\bin\Debug\net6.0\exersize_21.dll
+C:\Users\GN\Desktop\ubn\exersize_21\bin\Debug\net6.0\exersize_21.pdb
+C:\Users\GN\Desktop\ubn\exersize_21\obj\Debug\net6.0\exersize_21.dll
+C:\Users\GN\Desktop\ubn\exersize_21\obj\Debug\net6.0\refint\exersize_21.dll
+C:\Users\GN\Desktop\ubn\exersize_21\obj\Debug\net6.0\exersize_21.pdb
+C:\Users\GN\Desktop\ubn\exersize_21\obj\Debug\net6.0\exersize_21.genruntimeconfig.cache
+C:\Users\GN\Desktop\ubn\exersize_21\obj\Debug\net6.0\ref\exersize_21.dll
